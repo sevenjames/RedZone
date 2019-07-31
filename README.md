@@ -3,11 +3,11 @@
 Alter Minecraft's lighting to show you exactly where monsters can and can't spawn. Blocks where monsters can spawn are shaded with red.
 
 ## Requirements
-* Requires Minecraft Java Edition 1.14.x
-* Requires [Optifine](https://optifine.net/home)
+* Minecraft Java Edition 1.14.x
+* [Optifine 1.14.4](https://optifine.net/home)
 
 ## Issues
-Does not work some shaders.
+Does not work with some shaders.
 
 ## Installation
 RedZone installs the same way as a texture pack. Just put the RedZone.zip in your .minecraft/resourcepacks folder and then activate it in-game.
@@ -16,6 +16,7 @@ RedZone installs the same way as a texture pack. Just put the RedZone.zip in you
 
 ### v1.0
 Updated for Minecraft 1.14.x
+Updated for Optifine 1.14.4
 
 ### 2017-10-01
 Updated for Minecraft v1.12.x

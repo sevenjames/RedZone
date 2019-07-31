@@ -1,4 +1,4 @@
-# DangerZone
+# RedZone
 
 Alter Minecraft's lighting to show you exactly where monsters can and can't spawn. Blocks where monsters can spawn are shaded with red.
 
@@ -10,7 +10,7 @@ Alter Minecraft's lighting to show you exactly where monsters can and can't spaw
 Does not work some shaders.
 
 ## Installation
-DangerZone installs the same way as a texture pack. Just put the DangerZone.zip in your .minecraft/resourcepacks folder and then activate it in-game.
+RedZone installs the same way as a texture pack. Just put the RedZone.zip in your .minecraft/resourcepacks folder and then activate it in-game.
 
 ## Update History
 

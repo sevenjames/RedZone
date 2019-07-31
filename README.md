@@ -5,15 +5,16 @@ Alter Minecraft's lighting to show you exactly where monsters can and can't spaw
 Requires Optifine.
 
 ## Issues
-Does not work with Minecraft 1.14.
-
-## To Do
-Make it work with Minecraft 1.14.
+Does not work some shaders.
 
 ## Update History
 
+v1.0
 2019-07-30
-Cleanup of Readme. Upload to GitHub.
+Updated for Minecraft 1.14.x
+
+2019-07-30
+Upload to GitHub.
 
 2017-10-01
 Updated for Minecraft v1.12.x
@@ -28,7 +29,7 @@ First build.
 ## References
 
 * Minecraft Lightmap Tutorial
-    * https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1256353-making-lightmaps-an-mcpatcher-tutorial
+https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1256353-making-lightmaps-an-mcpatcher-tutorial
 
 * Inspired by: DangerZone - Monster Spawning Lighting Aide
-    * http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1245852-16x-1-7-dangerzone-monster-spawning-lighting-aide
+http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1245852-16x-1-7-dangerzone-monster-spawning-lighting-aide

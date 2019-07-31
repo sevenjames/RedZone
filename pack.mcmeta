@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 3,
-    "description": "Shows where monsters can and can't spawn"
+    "pack_format": 4,
+    "description": "Shows where monsters can spawn."
   }
 }

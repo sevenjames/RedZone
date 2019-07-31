@@ -9,27 +9,25 @@ Does not work some shaders.
 
 ## Update History
 
-v1.0
-2019-07-30
+### v1.0
 Updated for Minecraft 1.14.x
 
-2019-07-30
+### 2019-07-30
 Upload to GitHub.
 
-2017-10-01
+### 2017-10-01
 Updated for Minecraft v1.12.x
 
-2014-12-29
+### 2014-12-29
 Simplified lighting rule: Only applies red to blocks where monsters can spawn (light level less than 8).
 
-2014-01-05
+### 2014-01-05
 First build.
-
 
 ## References
 
-* Minecraft Lightmap Tutorial
+### Minecraft Lightmap Tutorial
 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1256353-making-lightmaps-an-mcpatcher-tutorial
 
-* Inspired by: DangerZone - Monster Spawning Lighting Aide
+### Inspired by: DangerZone - Monster Spawning Lighting Aide
 http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1245852-16x-1-7-dangerzone-monster-spawning-lighting-aide

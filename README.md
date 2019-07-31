@@ -4,15 +4,15 @@ Alter Minecraft's lighting to show you exactly where monsters can and can't spaw
 
 Requires Optifine.
 
-================
-Issues:
+
+Issues
 Does not work with Minecraft 1.14.
 
-================
+
 To Do
 Make it work with Minecraft 1.14.
 
-================
+
 Update History
 
 2019-07-30
@@ -28,7 +28,7 @@ Simplified lighting rule: Only applies red to blocks where monsters can spawn (l
 2014-01-05
 First build.
 
-================
+
 References
 
 Minecraft Lightmap Tutorial

@@ -28,6 +28,9 @@ First build.
 
 ## References
 
+### Optifine Lightmap Documentation
+https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/custom_lightmaps.txt
+
 ### Minecraft Lightmap Tutorial
 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/resource-pack-discussion/1256353-making-lightmaps-an-mcpatcher-tutorial
 

@@ -2,18 +2,20 @@
 
 Alter Minecraft's lighting to show you exactly where monsters can and can't spawn. Blocks where monsters can spawn are shaded with red.
 
-Requires Optifine.
+## Requirements
+* Requires Minecraft Java Edition 1.14.x
+* Requires [Optifine](https://optifine.net/home)
 
 ## Issues
 Does not work some shaders.
+
+## Installation
+DangerZone installs the same way as a texture pack. Just put the DangerZone.zip in your .minecraft/resourcepacks folder and then activate it in-game.
 
 ## Update History
 
 ### v1.0
 Updated for Minecraft 1.14.x
-
-### 2019-07-30
-Upload to GitHub.
 
 ### 2017-10-01
 Updated for Minecraft v1.12.x
